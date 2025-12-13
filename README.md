@@ -33,12 +33,6 @@ L'extension sera automatiquement installée et activée !
 - Fermeture automatique après le timer
 - Formats supportés : `youtube.com/watch?v=...` et `youtu.be/...`
 
-### ⚙️ Commandes
-- Messages commençant par `cmd:"..."` sont exécutés comme commandes shell
-- Format : `cmd:"la commande à exécuter"`
-- Exemple : `cmd:"notify-send 'Hello World'"`
-- Ancien format `cmd:commande` (sans guillemets) toujours supporté pour compatibilité
-
 ## 🔧 Configuration
 
 ### Modifier les identifiants de connexion
@@ -163,6 +157,3 @@ Pour modifier l'extension :
 2. Lancer `./install.sh` pour réinstaller
 3. Recharger GNOME Shell (si nécessaire)
 
----
-
-**Fait avec ❤️ pour le projet 42**
